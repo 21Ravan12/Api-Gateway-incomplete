@@ -1,0 +1,100 @@
+[32minfo[39m: Server running on port 3001
+[32minfo[39m: Server running on port 3001
+[32minfo[39m: Server running on port 3001
+[32minfo[39m: [2025-01-26T09:54:53.977Z] POST /api/signup 201 - 141ms
+[32minfo[39m: Server running on port 3001
+[32minfo[39m: Server running on port 3001
+[32minfo[39m: Server running on port 3001
+[31merror[39m: [2025-01-26T09:59:30.574Z] POST /api/signup 400 - 19ms
+[31merror[39m: [2025-01-26T10:18:48.586Z] POST /api/login 401 - 14ms
+[32minfo[39m: Server running on port 3001
+[32minfo[39m: [2025-01-26T10:49:35.036Z] POST /api/login 200 - 112ms
+[32minfo[39m: [2025-01-26T10:51:06.644Z] POST /api/login 200 - 109ms
+[31merror[39m: [2025-01-26T10:51:10.948Z] POST /api/login 401 - 145ms
+[32minfo[39m: Server running on port 3001
+[32minfo[39m: [2025-01-27T01:11:41.385Z] POST /api/login 200 - 146ms
+[32minfo[39m: Server running on port 3001
+[32minfo[39m: Server running on port 3001
+[32minfo[39m: Server running on port 3001
+[32minfo[39m: [2025-01-27T01:40:39.248Z] POST /api/login 200 - 114ms
+[31merror[39m: [2025-01-27T01:41:58.915Z] POST /api/signup 500 - 128ms
+[32minfo[39m: Server running on port 3001
+[31merror[39m: [2025-01-27T01:45:31.028Z] POST /api/signup 500 - 135ms
+[32minfo[39m: [2025-01-27T01:45:44.788Z] POST /api/signup 201 - 133ms
+[32minfo[39m: Server running on port 3001
+[31merror[39m: [2025-01-27T01:49:16.698Z] POST /api/signup 400 - 20ms
+[32minfo[39m: Server running on port 3001
+[32minfo[39m: Server running on port 3001
+[32minfo[39m: [2025-01-27T02:16:46.366Z] POST /api/login 200 - 128ms
+[32minfo[39m: [2025-01-27T02:16:48.493Z] POST /api/login 200 - 87ms
+[32minfo[39m: [2025-01-27T02:16:49.772Z] POST /api/login 200 - 102ms
+[32minfo[39m: [2025-01-27T02:16:50.909Z] POST /api/login 200 - 104ms
+[32minfo[39m: [2025-01-27T02:16:52.129Z] POST /api/login 200 - 109ms
+[31merror[39m: [2025-01-27T02:16:53.402Z] POST /api/login 429 - 2ms
+[32minfo[39m: Server running on port 3001
+[32minfo[39m: [2025-01-27T02:29:14.032Z] POST /api/login 200 - 111ms
+[32minfo[39m: Server running on port 3001
+[32minfo[39m: [2025-01-27T02:29:40.313Z] POST /api/login 200 - 114ms
+[32minfo[39m: [2025-01-27T02:29:41.551Z] POST /api/login 200 - 90ms
+[32minfo[39m: [2025-01-27T02:29:42.709Z] POST /api/login 200 - 98ms
+[32minfo[39m: [2025-01-27T02:29:44.171Z] POST /api/login 200 - 124ms
+[32minfo[39m: [2025-01-27T02:29:45.344Z] POST /api/login 200 - 96ms
+[31merror[39m: [2025-01-27T02:29:46.542Z] POST /api/login 429 - 1ms
+[32minfo[39m: Server running on port 3001
+[32minfo[39m: [2025-01-27T02:39:36.968Z] POST /api/login 200 - 116ms
+[32minfo[39m: Server running on port 3001
+[32minfo[39m: Server running on port 3001
+[32minfo[39m: Server running on port 3001
+[32minfo[39m: Server running on port 3001
+[32minfo[39m: Server running on port 3001
+[32minfo[39m: [2025-01-27T04:15:38.014Z] POST /api/login 200 - 123ms
+[32minfo[39m: Server running on port 3001
+[32minfo[39m: [2025-01-27T04:16:27.550Z] POST /api/login 200 - 113ms
+[32minfo[39m: Server running on port 3001
+[32minfo[39m: Server running on port 3001
+[32minfo[39m: [2025-01-27T04:26:31.874Z] POST /api/login 200 - 115ms
+[32minfo[39m: [2025-01-27T04:26:38.850Z] POST /api/login 200 - 108ms
+[32minfo[39m: Server running on port 3001
+[32minfo[39m: [2025-01-27T04:29:46.737Z] POST /api/login 200 - 114ms
+[32minfo[39m: [2025-01-27T04:29:48.823Z] POST /api/login 200 - 87ms
+[32minfo[39m: Server running on port 3001
+[32minfo[39m: [2025-01-27T09:54:54.257Z] POST /api/login 200 - 170ms
+[32minfo[39m: [2025-01-27T09:55:01.448Z] POST /api/login 200 - 105ms
+[32minfo[39m: Server running on port 3001
+[32minfo[39m: [2025-01-27T10:13:11.208Z] POST /api/login 200 - 120ms
+[32minfo[39m: Server running on port 3001
+[32minfo[39m: Server running on port 3001
+[32minfo[39m: [2025-01-27T10:15:55.575Z] POST /api/login 200 - 114ms
+[32minfo[39m: [2025-01-27T10:16:30.781Z] POST /api/login 200 - 85ms
+[32minfo[39m: Server running on port 3001
+[31merror[39m: [2025-01-27T10:17:51.560Z] POST /metrics 404 - 6ms
+[31merror[39m: [2025-01-27T10:18:02.062Z] POST /api/metrics 404 - 3ms
+[32minfo[39m: Server running on port 3001
+[32minfo[39m: Server running on port 3001
+[32minfo[39m: [2025-01-27T10:20:00.783Z] POST /api/login 200 - 112ms
+[31merror[39m: [2025-01-27T10:20:07.808Z] POST /api/login/metrics 404 - 4ms
+[32minfo[39m: Server running on port 3001
+[31merror[39m: [2025-01-27T10:22:16.460Z] POST /metrics 404 - 5ms
+[32minfo[39m: Server running on port 3001
+[31merror[39m: [2025-01-27T10:37:17.936Z] POST /metrics 404 - 6ms
+[32minfo[39m: Server running on port 3001
+[31merror[39m: [2025-01-27T10:39:41.844Z] POST /metrics 404 - 6ms
+[32minfo[39m: Server running on port 3001
+[31merror[39m: [2025-01-27T10:43:08.131Z] POST /metrics 404 - 7ms
+[32minfo[39m: Server running on port 3001
+[32minfo[39m: Server running on port 3001
+[32minfo[39m: [2025-01-27T11:57:13.741Z] POST /api/login 200 - 169ms
+[32minfo[39m: Server running on port 3001
+[32minfo[39m: Server running on port 3001
+[32minfo[39m: [2025-01-27T12:46:15.734Z] POST /api/login 200 - 133ms
+[31merror[39m: [2025-01-27T12:47:37.654Z] POST /metrics 404 - 2ms
+[31merror[39m: [2025-01-27T12:50:55.522Z] POST /metrics 404 - 1ms
+[32minfo[39m: [2025-01-27T12:51:00.253Z] POST /api/login 200 - 98ms
+[32minfo[39m: [2025-01-27T12:51:01.541Z] POST /api/login 200 - 132ms
+[32minfo[39m: [2025-01-27T12:51:02.566Z] POST /api/login 200 - 118ms
+[32minfo[39m: [2025-01-27T12:54:09.120Z] POST /api/login 200 - 98ms
+[32minfo[39m: [2025-01-27T12:54:10.430Z] POST /api/login 200 - 114ms
+[32minfo[39m: [2025-01-27T12:54:11.544Z] POST /api/login 200 - 106ms
+[32minfo[39m: [2025-01-27T12:54:12.819Z] POST /api/login 200 - 133ms
+[32minfo[39m: [2025-01-27T12:54:14.022Z] POST /api/login 200 - 101ms
+[32minfo[39m: Server running on port 3001

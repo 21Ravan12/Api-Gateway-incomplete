@@ -1,0 +1,17 @@
+[31merror[39m: [2025-01-26T09:59:30.574Z] POST /api/signup 400 - 19ms
+[31merror[39m: [2025-01-26T10:18:48.586Z] POST /api/login 401 - 14ms
+[31merror[39m: [2025-01-26T10:51:10.948Z] POST /api/login 401 - 145ms
+[31merror[39m: [2025-01-27T01:41:58.915Z] POST /api/signup 500 - 128ms
+[31merror[39m: [2025-01-27T01:45:31.028Z] POST /api/signup 500 - 135ms
+[31merror[39m: [2025-01-27T01:49:16.698Z] POST /api/signup 400 - 20ms
+[31merror[39m: [2025-01-27T02:16:53.402Z] POST /api/login 429 - 2ms
+[31merror[39m: [2025-01-27T02:29:46.542Z] POST /api/login 429 - 1ms
+[31merror[39m: [2025-01-27T10:17:51.560Z] POST /metrics 404 - 6ms
+[31merror[39m: [2025-01-27T10:18:02.062Z] POST /api/metrics 404 - 3ms
+[31merror[39m: [2025-01-27T10:20:07.808Z] POST /api/login/metrics 404 - 4ms
+[31merror[39m: [2025-01-27T10:22:16.460Z] POST /metrics 404 - 5ms
+[31merror[39m: [2025-01-27T10:37:17.936Z] POST /metrics 404 - 6ms
+[31merror[39m: [2025-01-27T10:39:41.844Z] POST /metrics 404 - 6ms
+[31merror[39m: [2025-01-27T10:43:08.131Z] POST /metrics 404 - 7ms
+[31merror[39m: [2025-01-27T12:47:37.654Z] POST /metrics 404 - 2ms
+[31merror[39m: [2025-01-27T12:50:55.522Z] POST /metrics 404 - 1ms
